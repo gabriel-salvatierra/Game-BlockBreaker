@@ -12,4 +12,4 @@ Block breaker game from a **GameDev.tv** course
 6. Select Screen resolution: 1400x1050
 7. Enjoy!
 
-![LevelImage](Demo/Level 2.PNG)
+![LevelImage](Demo/Level2.PNG)
